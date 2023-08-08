@@ -1,8 +1,2 @@
 logo: /images/mbsc2024-logo-long.png
-links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+links: []
