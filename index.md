@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: "#MBSC2024"
-description: An Isomer site of the Singapore Government
+description: Marina Bay Singapore Countdown
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
