@@ -1,5 +1,5 @@
 title: "#MBSC2024"
-url: https://www.marinabaycountdown.sg
+url: https://www.marinabaycountdown.gov.sg
 favicon: /images/mbsc2024-logo-compact.ico
 colors:
   primary-color: "#8c4693"
@@ -15,7 +15,7 @@ colors:
       color: "#f8e71c"
     - title: media-color-five
       color: "#b8e986"
-description: ""
+description: Marina Bay Singapore Countdown
 permalink: none
 baseurl: ""
 exclude:
