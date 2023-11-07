@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - Let's Celebrate.md
       - Brightening Lives.md
