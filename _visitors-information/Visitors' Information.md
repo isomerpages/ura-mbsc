@@ -1,6 +1,7 @@
 ---
 title: Visitors' Information
 permalink: /visitors-information/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+![](/images/mbsc2024-event-map.jpg)
