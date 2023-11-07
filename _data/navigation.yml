@@ -1,2 +1,6 @@
 logo: /images/mbsc2024-logo-long.png
-links: []
+links:
+  - title: Programmes
+    collection: programmes
+  - title: Visitors' Information
+    url: /visitors-information
