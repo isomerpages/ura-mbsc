@@ -1,6 +1,7 @@
 ---
 title: Acknowledgements
 permalink: /about/acknowledgements/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+![](/images/mbsc2024-logo-long.png)
