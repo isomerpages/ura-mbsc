@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - "Ice Magic: Winter Wonderland.md"
       - TurboCharged.md
       - Let's Celebrate.md
       - Brightening Lives.md
