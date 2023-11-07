@@ -7,6 +7,28 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Coming to Marina Bay in December 2023
+      title: Marina Bay Singapore Countdown 2024
       background: /images/fw-background.jpg
+  - infopic:
+      title: About
+      id: infopic
+      description: asdadas
+      button: Read More
+      url: /about
+      image: /images/mbsc2024-logo-long.png
+      alt: Image alt text
+  - infopic:
+      title: Event Map
+      subtitle: Subtitle
+      id: infopic
+      description: Infopic description
+      image: /images/mbsc2024-event-map.jpg
+      alt: Image alt text
+  - infopic:
+      title: Acknowledgements
+      subtitle: Subtitle
+      id: infopic
+      description: Infopic description
+      image: /images/mbsc2024-logo-long.png
+      alt: Image alt text
 ---
