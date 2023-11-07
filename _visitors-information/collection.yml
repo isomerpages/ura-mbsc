@@ -1,4 +1,5 @@
 collections:
   visitors-information:
     output: true
-    order: []
+    order:
+      - Visitors' Information.md
