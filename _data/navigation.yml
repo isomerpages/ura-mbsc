@@ -1,5 +1,7 @@
 logo: /images/mbsc2024-logo-long.png
 links:
+  - title: About
+    collection: about
   - title: Programmes
     collection: programmes
   - title: Visitors' Information
