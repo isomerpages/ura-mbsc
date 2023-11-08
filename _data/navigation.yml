@@ -4,5 +4,9 @@ links:
     collection: about
   - title: Programmes
     collection: programmes
+  - title: Brightening Lives
+    url: /brightening-lives
   - title: Visitors' Information
     url: /visitors-information
+  - title: News
+    url: "#"
