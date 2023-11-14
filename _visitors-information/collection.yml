@@ -2,4 +2,4 @@ collections:
   visitors-information:
     output: true
     order:
-      - Event Map.md
+      - Visitors' Information.md
