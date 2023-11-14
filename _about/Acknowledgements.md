@@ -4,4 +4,4 @@ permalink: /about/acknowledgements/
 variant: markdown
 description: ""
 ---
-![](/images/mbsc2024-logo-long.png)
+![](/images/MBSC2024_Acknowledgements.png)
