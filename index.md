@@ -29,6 +29,6 @@ sections:
       subtitle: Subtitle
       id: infopic
       description: Infopic description
-      image: /images/mbsc2024-logo-long.png
+      image: /images/MBSC2024_Acknowledgements.png
       alt: Image alt text
 ---
