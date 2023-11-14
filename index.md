@@ -13,8 +13,10 @@ sections:
       title: Highlights around Marina Bay at a glance
       id: infopic
       image: /images/mbsc2024-event-map.jpg
+      alt: Highlights around Marina Bay
   - infopic:
       title: Acknowledgements
       id: infopic
       image: /images/MBSC2024_Acknowledgements.png
+      alt: Acknowledgements
 ---
