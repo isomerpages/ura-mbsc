@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Esplanade Presents Come Together.md
       - Let's Celebrate.md
       - TurboCharged.md
       - "Ice Magic: Winter Wonderland.md"
