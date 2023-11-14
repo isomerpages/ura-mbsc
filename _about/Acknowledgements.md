@@ -58,7 +58,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.majurity.sg/">
-            <img alt="Image of The Majurity Trust Logo" src="/images/TheMajurityTrust.jpg">
+            <img alt="Image of The Majurity Trust Logo" src="/images/TMT.jpg">
           </a>
         </p>
         <br>
