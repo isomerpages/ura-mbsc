@@ -12,7 +12,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.ura.gov.sg/Corporate">
-            <img alt="Image of URA Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+            <img alt="Image of URA Logo" src="/images/URA.jpg">
           </a>
         </p>
         <br>
@@ -23,7 +23,7 @@ description: ""
         <br>
         <p>
           <a href="http://www.aux.com.sg/">
-            <img alt="Image of AUX Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+            <img alt="Image of AUX Logo" src="/images/Aux_Media.jpg">
           </a>
         </p>
         <br>
@@ -35,7 +35,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay">
-            <img alt="Image of MBS Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+            <img alt="Image of Marina Bay Logo" src="/images/Marina_Bay.jpg">
           </a>
         </p>
         <br>
@@ -46,7 +46,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.visitsingapore.com/en/">
-            <img alt="Image of SG Made Possible Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+            <img alt="Image of SG Made Possible Logo" src="/images/SG_Passion.jpg">
           </a>
         </p>
         <br>
@@ -58,7 +58,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.majurity.sg/">
-            <img alt="Image of The Majurity Trust Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+            <img alt="Image of The Majurity Trust Logo" src="/images/TMT.jpg">
           </a>
         </p>
         <br>
@@ -69,7 +69,7 @@ description: ""
         <br>
         <p>
           <a href="https://rivercruise.com.sg/">
-            <img alt="Image of Singapore River Cruise Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+            <img alt="Image of Singapore River Cruise Logo" src="/images/SRC_Logo.jpg">
           </a>
         </p>
         <br>
@@ -81,7 +81,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.marinabaysands.com/">
-            <img alt="Image of MBS Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+            <img alt="Image of MBS Logo" src="/images/MBS_logo.jpg">
           </a>
         </p>
         <br>
