@@ -4,4 +4,104 @@ permalink: /about/acknowledgements/
 variant: markdown
 description: ""
 ---
-![](/images/MBSC2024_Acknowledgements.png)
+<table class="table-v">
+  </table><table style="width:100%">
+    <tbody><tr>
+      <td>
+        <h4>Presented by</h4>
+        <br>
+        <p>
+          <a href="https://www.ura.gov.sg/Corporate">
+            <img alt="Image of URA Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+          </a>
+        </p>
+        <br>
+        <br>
+      </td>
+      <td>
+        <h4>Managed by</h4>
+        <br>
+        <p>
+          <a href="http://www.aux.com.sg/">
+            <img alt="Image of AUX Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+          </a>
+        </p>
+        <br>
+        <br>
+      </td>
+    </tr><tr>
+      <td>
+        <h4>Held in</h4>
+        <br>
+        <p>
+          <a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay">
+            <img alt="Image of MBS Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+          </a>
+        </p>
+        <br>
+        <br>
+      </td>
+      <td>
+        <h4 style="color:white;">.</h4>
+        <br>
+        <p>
+          <a href="https://www.visitsingapore.com/en/">
+            <img alt="Image of Sg Made Possible Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+          </a>
+        </p>
+        <br>
+        <br>
+      </td>
+    </tr><tr>
+      <td>
+        <h4>Community Partners</h4>
+        <br>
+        <p>
+          <a href="https://cityofgood.sg/">
+            <img alt="Image of COG Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+          </a>
+        </p>
+        <br>
+        <br>
+      </td>
+      <td>
+        <h4 style="color:white;">.</h4>
+        <br>
+        <p>
+          <a href="https://www.majurity.sg/">
+            <img alt="Image of The Majurity Trust Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+          </a>
+        </p>
+        <br>
+        <br>
+      </td>
+    </tr><tr>
+      <td>
+        <h4>Prime Sponsor</h4>
+        <br>
+        <p>
+          <a href="https://www.marinabaysands.com/">
+            <img alt="Image of MBS Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+          </a>
+        </p>
+        <br>
+        <br>
+      </td>
+      <td>
+        <h4 style="color:white;">.</h4>
+        <br>
+        <br>
+        <br>
+      </td>
+    </tr><tr>
+      <td>
+        <h4>Partner</h4>
+        <br>
+        <p>
+          <a href="https://marinabayalliance.com/">
+            <img alt="Image of Marina Bay Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+          </a>
+        </p>
+        <br>
+        <br>
+      </td></tr></tbody></table>
