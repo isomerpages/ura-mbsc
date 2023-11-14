@@ -23,7 +23,7 @@ description: ""
         <br>
         <p>
           <a href="http://www.aux.com.sg/">
-            <img alt="Image of AUX Logo" src="/images/Aux_Media.jpg">
+            <img alt="Image of AUX Logo" src="/images/AuxMG.jpg">
           </a>
         </p>
         <br>
@@ -35,7 +35,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay">
-            <img alt="Image of Marina Bay Logo" src="/images/Marina_Bay.jpg">
+            <img alt="Image of Marina Bay Logo" src="/images/MarinaBay.jpg">
           </a>
         </p>
         <br>
@@ -46,7 +46,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.visitsingapore.com/en/">
-            <img alt="Image of SG Made Possible Logo" src="/images/SG_Passion.jpg">
+            <img alt="Image of SG Made Possible Logo" src="/images/SGPassion.jpg">
           </a>
         </p>
         <br>
@@ -58,7 +58,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.majurity.sg/">
-            <img alt="Image of The Majurity Trust Logo" src="/images/TMT.jpg">
+            <img alt="Image of The Majurity Trust Logo" src="/images/TheMajurityTrust.jpg">
           </a>
         </p>
         <br>
@@ -69,7 +69,7 @@ description: ""
         <br>
         <p>
           <a href="https://rivercruise.com.sg/">
-            <img alt="Image of Singapore River Cruise Logo" src="/images/SRC_Logo.jpg">
+            <img alt="Image of Singapore River Cruise Logo" src="/images/SRC.jpg">
           </a>
         </p>
         <br>
@@ -81,7 +81,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.marinabaysands.com/">
-            <img alt="Image of MBS Logo" src="/images/MBS_logo.jpg">
+            <img alt="Image of MBS Logo" src="/images/MBS.jpg">
           </a>
         </p>
         <br>
