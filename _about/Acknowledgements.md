@@ -46,7 +46,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.visitsingapore.com/en/">
-            <img alt="Image of Sg Made Possible Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+            <img alt="Image of SG Made Possible Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
           </a>
         </p>
         <br>
@@ -54,22 +54,22 @@ description: ""
       </td>
     </tr><tr>
       <td>
-        <h4>Community Partners</h4>
+        <h4>Community Partner</h4>
         <br>
         <p>
-          <a href="https://cityofgood.sg/">
-            <img alt="Image of COG Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+          <a href="https://www.majurity.sg/">
+            <img alt="Image of The Majurity Trust Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
           </a>
         </p>
         <br>
         <br>
       </td>
       <td>
-        <h4 style="color:white;">.</h4>
+        <h4>Partner</h4>
         <br>
         <p>
-          <a href="https://www.majurity.sg/">
-            <img alt="Image of The Majurity Trust Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
+          <a href="https://rivercruise.com.sg/">
+            <img alt="Image of Singapore River Cruise Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
           </a>
         </p>
         <br>
@@ -93,15 +93,4 @@ description: ""
         <br>
         <br>
       </td>
-    </tr><tr>
-      <td>
-        <h4>Partner</h4>
-        <br>
-        <p>
-          <a href="https://marinabayalliance.com/">
-            <img alt="Image of Marina Bay Logo" src="https://staging.d3gz5vdw020713.amplifyapp.com/images/mbsc2024-logo-long.png">
-          </a>
-        </p>
-        <br>
-        <br>
-      </td></tr></tbody></table>
+    </tr><tr></tr></tbody></table>
