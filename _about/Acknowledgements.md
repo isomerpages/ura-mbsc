@@ -42,7 +42,7 @@ description: ""
         <br>
       </td>
       <td>
-        <h4 style="color:white;">.</h4>
+        <h4 style="color:white; visibility: hidden">.</h4>
         <br>
         <p>
           <a href="https://www.visitsingapore.com/en/">
@@ -88,7 +88,7 @@ description: ""
         <br>
       </td>
       <td>
-        <h4 style="color:white;">.</h4>
+        <h4 style="color:white;"></h4>
         <br>
         <br>
         <br>
