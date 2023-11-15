@@ -17,6 +17,6 @@ sections:
   - infopic:
       title: Acknowledgements
       id: infopic
-      image: /images/MBSC2024_Acknowledgements.png
+      image: /images/MBSC24_Acknowledgements.png
       alt: Acknowledgements
 ---
