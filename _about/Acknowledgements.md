@@ -65,11 +65,11 @@ description: ""
         <br>
       </td>
       <td>
-        <h4>Partner</h4>
+        <h4>Prime Sponsor</h4>
         <br>
         <p>
-          <a href="https://rivercruise.com.sg/">
-            <img alt="Image of Singapore River Cruise Logo" src="/images/SRC.jpg">
+          <a href="https://www.marinabaysands.com/">
+            <img alt="Image of MBS Logo" src="/images/MBS.jpg">
           </a>
         </p>
         <br>
@@ -77,11 +77,11 @@ description: ""
       </td>
     </tr><tr>
       <td>
-        <h4>Prime Sponsor</h4>
+        <h4>Partner</h4>
         <br>
         <p>
-          <a href="https://www.marinabaysands.com/">
-            <img alt="Image of MBS Logo" src="/images/MBS.jpg">
+          <a href="https://rivercruise.com.sg/">
+            <img alt="Image of Singapore River Cruise Logo" src="/images/SRC.jpg">
           </a>
         </p>
         <br>
