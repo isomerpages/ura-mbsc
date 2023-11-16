@@ -1,2 +1,12 @@
 logo: /images/mbsc2024-logo-long.png
-links: []
+links:
+  - title: About
+    collection: about
+  - title: Programmes
+    collection: programmes
+  - title: Brightening Lives
+    collection: brightening-lives
+  - title: Visitors' Information
+    url: /visitors-information
+  - title: News
+    resource_room: true

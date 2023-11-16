@@ -1,0 +1,6 @@
+collections:
+  brightening-lives:
+    output: true
+    order:
+      - About Brightening Lives.md
+      - Community Partner – The Majurity Trust.md

@@ -2,13 +2,13 @@ title: "#MBSC2024"
 url: https://www.marinabaycountdown.gov.sg
 favicon: /images/mbsc2024-logo-compact.ico
 colors:
-  primary-color: "#8c4693"
+  primary-color: "#41bda5"
   secondary-color: "#4f758b"
   media-colors:
     - title: media-color-one
       color: "#f5a623"
     - title: media-color-two
-      color: "#ad439c"
+      color: "#41bda5"
     - title: media-color-three
       color: "#9b9b9b"
     - title: media-color-four
@@ -57,3 +57,4 @@ is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""
+resources_name: news
