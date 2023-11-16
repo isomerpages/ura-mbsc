@@ -9,4 +9,4 @@ links:
   - title: Visitors' Information
     url: /visitors-information
   - title: News
-    url: "#"
+    resource_room: true
