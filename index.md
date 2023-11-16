@@ -9,6 +9,16 @@ sections:
   - hero:
       title: Marina Bay Singapore Countdown 2024
       background: /images/fw-background.jpg
+      key_highlights:
+        - title: Programmes
+          description: ""
+          url: /programmes/mediacorps-lets-celebrate-2024/
+        - title: Brightening Lives
+          description: ""
+          url: /brightening-lives/about-brightening-lives/
+        - title: Visitors' Information
+          description: ""
+          url: /visitors-information/
   - infopic:
       title: Highlights around Marina Bay at a glance
       id: infopic
