@@ -5,4 +5,4 @@ variant: markdown
 description: ""
 ---
 ### Event Map
-![](/images/mbsc_map_v6.jpg)
+![MBSC Map](/images/mbsc_map_v7_2.jpg)

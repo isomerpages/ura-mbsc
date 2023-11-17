@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: Highlights around Marina Bay at a glance
       id: infopic
-      image: /images/mbsc_map_v6.jpg
+      image: /images/mbsc_map_v7_2.jpg
       alt: Highlights around Marina Bay
   - infopic:
       title: Acknowledgements
