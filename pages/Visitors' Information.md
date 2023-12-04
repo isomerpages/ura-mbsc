@@ -5,4 +5,4 @@ variant: markdown
 description: Latest information of the event.
 ---
 ### Event Map
-![MBSC Map](/images/mbsc_map_v7_2.jpg)
+![Highlights around Marina Bay at a glance](/images/mbsc_map_v7_2.jpg)
