@@ -13,4 +13,6 @@ Choreographed to tell a story of reflection and hope, the fireworks will light u
 
 Marina Bay will also be transformed into a vibrant hub of activities, from inspiring light projections, a pop-up winter playground to a go-kart arena in the heart of the city with a rooftop deck and exciting live performances. This year’s Countdown invites everyone to come together to create and celebrate timeless moments.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Hobgtu_auf8?si=7zHz2_JAJme4KlQp" height="315" width="560"></iframe>
+
 For enquiries, please contact the MBSC 2024 team at [ura_mbsc@ura.gov.sg](mailto:ura_mbsc@ura.gov.sg)
