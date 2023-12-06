@@ -2,7 +2,7 @@
 title: Acknowledgements
 permalink: /about/acknowledgements/
 variant: markdown
-description: ""
+description: Acknowledgements for the event.
 ---
 <table class="table-v">
   </table><table style="width:100%">

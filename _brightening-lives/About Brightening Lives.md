@@ -2,7 +2,9 @@
 title: About Brightening Lives
 permalink: /brightening-lives/about-brightening-lives/
 variant: markdown
-description: ""
+description: Be enthralled by nightly projection shows on Singapore’s iconic
+  facades which celebrate the acts of giving to build a thriving community
+  together.
 ---
 A joint initiative with Community Partner, The Majurity Trust (TMT), the Brightening Lives campaign is a community engagement project that showcases original artworks on three iconic facades in Marina Bay  –  the ArtScience Museum, The Fullerton Hotel Singapore and the Merlion.
 

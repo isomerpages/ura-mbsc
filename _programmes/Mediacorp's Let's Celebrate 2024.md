@@ -2,7 +2,8 @@
 title: Mediacorp's Let's Celebrate 2024
 permalink: /programmes/mediacorps-lets-celebrate-2024/
 variant: markdown
-description: ""
+description: Revel in the live performances of star-studded line-up of
+  home-grown and regional talents with Let’s Celebrate 2024.
 ---
 *Let’s Celebrate 2024*, Mediacorp’s annual countdown show, is returning to The Promontory at Marina Bay on 31 December 2023. Look forward to dazzling performances from a star-studded line-up of home-grown and regional talents. It will be an entertainment extravaganza with on-ground, on-air (Channel 5) and online ([mewatch](https://www.mewatch.sg/), [Mediacorp Entertainment YouTube Channel](https://www.youtube.com/@MediacorpEntertainment)) presence, for audiences both at Marina Bay and at home to usher in the New Year together as fireworks illuminate the skyline.
 
