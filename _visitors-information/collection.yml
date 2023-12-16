@@ -2,5 +2,5 @@ collections:
   visitors-information:
     output: true
     order:
-      - Advisory.md
       - Getting Here.md
+      - Advisory.md
