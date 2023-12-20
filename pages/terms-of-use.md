@@ -1,61 +1,63 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
-Access to this website is granted by the Urban Redevelopment Authority ("URA"). By accessing this website, you shall be deemed to have accepted and agreed to be bound by the terms and conditions below. If you do not agree to the terms and conditions, please discontinue your access immediately.
+### **General**
 
-### **Amendments and Additional Terms and Conditions**
+1\. Thank you for visiting Marina Bay Singapore Countdown website (“Website”) which is owned and operated by the Urban Redevelopment Authority (“URA”). By accessing and using this Website, you unconditionally accept and agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
 
-These terms and conditions may be amended by the URA from time to time without notice. You shall be deemed to have accepted and agreed to the terms and conditions as amended upon your use of this website after the amendments have been made. You should therefore check these terms and conditions every time you use this website.
+2\. URA reserves the right to change these Terms of Use from time to time. All changes will be posted on this page, and your use of this Website after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes.
 
-In addition to these terms and conditions, additional terms and conditions may apply to the use of certain services offered in this website. By using such services, you shall also be deemed to have accepted and agreed to be bound by the additional terms and conditions as stated in the parts of this website where such services are offered. Where there is any inconsistency between these terms and conditions and the additional terms and conditions, the additional terms and conditions shall to the extent of such inconsistency, prevail.
+### **Proprietary Rights**
 
-### **Availability and Right of Access**
+3\. This Website and the materials made available on or through this Website (“Contents”), are protected by copyright, trademark and other forms of intellectual property rights. All rights in this Website and the Contents are owned by, licensed to, managed or controlled by URA.
 
-URA may at any time suspend the operations of this website or all or any part of the services contained in this website for any period of time without any prior notice whether for the purposes of updating, upgrading, system maintenance, or otherwise.
+### **Restrictions on use of Contents**
 
-URA further reserves all rights to deny or restrict access to this website by any person at any time without any notice or assigning any reason whatsoever.
+4\. You may access and use this Website and the Contents in the manner permitted in these Terms of Use only.
 
-The contents of this website including all services available within it may be modified, deleted, edited or withdrawn by URA in its discretion at any time without prior notice.
+5\. You may view, download and print the Contents for your personal, internal and non-commercial use, provided that you keep intact all accompanying copyright and other proprietary notices.
 
-### **Links to Other Websites**
+6\. You shall not make any deletions, additions, adjustments, alterations, adaptations or modifications to this Website or any of the Contents. You acknowledge and agree that any deletion, addition, adjustment, alteration, adaptation or modification of this Website or any of the Contents is a violation of intellectual property rights subsisting therein.
 
-This website contains links to other websites, which may not be maintained by URA. Other websites may also contain links to this website. URA is not responsible for the contents of such other websites and shall not be liable to any person for any loss, damage or injury caused thereby or as a result of access to such other websites. Any link to other websites is provided as a convenience to you and does not imply URA's endorsement of the linked websites or association with its operators. The use of any such link is entirely at your own risk.
+7\. Except as expressly permitted by these Terms of Use, you shall not reproduce, publish, upload, post, display, transmit or otherwise distribute this Website or any of the Contents in any manner or in any form, without the prior written permission of URA. You acknowledge and agree that any use of the Contents otherwise than in accordance with these Terms of Use is a violation of intellectual property rights subsisting therein
 
-If you wish to establish a link to this website, you are required to obtain URA's prior permission to do so. If permission is given, URA shall not be obliged to establish reciprocal links with any website operated by you.
+### **Disclaimers against Warranties, Representations and Liability**
 
-### **Provision of Information or Data**
+8\. This Website and the Contents are provided on an “as is” and “as available” basis without warranties of any kind. To the fullest extent permitted by law, URA does not make any representations or warranties whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:  
+a. any representations or warranties as to the accuracy, completeness, reliability, timeliness, currency, quality or fitness for any particular purpose of the Contents of this Website; and  
+b. any representations or warranties that the Contents and functions available on this Website shall be error-free or shall be available without interruption or delay, or that any defects on this Website shall be rectified or corrected, or that this Website, the Contents and the hosting servers are and will be free of all viruses and other harmful elements.
 
-Where you undertake any interactive communication with or provide any information or data to URA through the use of any service available within this website, you are required to ensure that it is not misleading or inaccurate, does not violate any applicable laws or rights, and does not contain or will not import any viruses or other disabling devices which may interfere, damage, intercept, access or expropriate any system, data or information of URA or other third parties.
+9\. URA shall not be liable to you or any third party for any damage or loss whatsoever, including but not limited to direct, indirect, punitive, special or consequential damages, loss of income, revenue or profits, lost or damaged data, or damage to your computer, software, modem or other property, arising directly or indirectly from:  
+a. your access to or use of this Website;  
+b. any loss of access to or use of this Website, howsoever caused;  
+c. any inaccuracy or incompleteness in, or errors or omissions in the transmission of, the Contents;  
+d. any delay or interruption in the transmission of the Contents on this Website, whether caused by delay or interruption in transmission over the internet or otherwise; or  
+e. any decision made or action taken by you or any third party in reliance upon the Contents, regardless of whether URA has been advised of the possibility of such damage or loss.
 
-### **Intellectual Property Rights**
+10\. You shall not rely on any Contents of this Website to claim or assert any form of legitimate expectation against URA, whether procedural or substantive in nature, in respect of any action that URA may or may not take in the exercise of its discretion, or in connection with URA’s roles as a statutory agency.
 
-The contents of this website including but not limited to all information, text, graphics, music, sound, scripts, programs, software, technology, design, data compilation and other materials or works (collectively "the Materials") are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Materials are owned by, licensed to, or controlled by URA.
+### **Indemnity**
 
-You are permitted to view, download and print the Materials for personal and non-commercial use provided you do not modify the Materials and retain any copyright or proprietary notice contained in the Materials.
+11\. You hereby agree to indemnify URA and hold URA harmless from and against any and all claims, losses, liabilities, costs and expenses (including but not limited to legal costs and expenses on a full indemnity basis) made against or suffered or incurred by URA arising directly or indirectly out of:  
+a. your access to or use of this Website; or  
+b. your breach of any of these Terms of Use.
 
-Except for the limited permission mentioned above, no part or parts of the Materials may be reproduced, republished, reverse compiled, adapted, modified, distributed, commercially exploited, displayed, broadcast, hyperlinked, framed or transmitted in any manner or by any means or stored in an information retrieval system without the prior written consent of URA.
+### **Availability, Right of Access, Changes to Website and Contents**
 
-### **Disclaimer**
+12\. URA may at any time suspend the operation of this Website or all or any of the Contents for any period of time without any prior notice, whether for the purposes of Website updating and upgrading or system maintenance or otherwise.
 
-URA has used reasonable endeavours to ensure that the Materials are correct at the time of posting. However, URA does not warrant the accuracy, adequacy or completeness of the Materials and expressly disclaims liability for any error or omission in the Materials.
+13\. URA reserves all rights to deny or restrict access to this Website by any person, or to block access from a particular internet address to this Website, at any time without prior notice and without ascribing any reason whatsoever.
 
-No warranty of any kind, express, implied or statutory, including but not limited to warranties of non-infringement of third party rights, title, merchantability, satisfactory quality and/or fitness for a particular purpose, is given in conjunction with the Materials and/or this website.
+14\. This Website and the Contents may be changed, modified, edited, removed or withdrawn by URA at its absolute discretion and at any time without prior notice.
 
-URA does not warrant that any of the Materials or that this website will be provided uninterrupted or free from errors or that any identified defect will be corrected. Further, no warranty is given that this website and the Materials are free from any virus or other harmful program, code or macro.
+15\. You shall obtain your own professional and/or legal advice relevant to your particular circumstances and conduct all necessary due diligence, including but not limited to making such investigations or seeking clarifications as may be appropriate, as regards any decision or action that you intend to take in relation to any matter concerning the Contents of this Website. This Website may not cover all information available on a particular issue.
 
-### **Exclusion of Liability**
+### **Hyperlinks from this Website to other websites**
 
-To the fullest extent permitted by law, URA shall in no event be liable for any damages, loss or expense, direct or indirect, including but without limitation, special or consequential damage, or economic loss arising from or in connection with -
+16\. This Website contains hyperlinks to websites which are not maintained by URA. URA is not responsible for the contents or reliability of those Websites and does not necessarily endorse the views expressed in them. URA has no control over and cannot guarantee the accessibility or proper functioning of those websites. Further, URA shall not be liable to you or any third party for any damage or loss whatsoever arising from your access to those websites. Use of the hyperlinks and access to those websites are entirely at your own risk.
 
-1. any access, use or inability to access or use this website, or reliance on the Materials;
-2. any system, server or connection failure, error, omission, interruption, delay in transmission, or computer virus; and
-3. any use of or access to any other website linked to this website; even if URA or its employees are advised of the possibility of such damages, losses and/or expenses.
+### **Governing Law**
 
-### **Severence of Terms**
-
-If any provision of these terms and conditions is determined to be invalid or unenforceable, then such invalidity or unenforceability shall not have any effect on any other provision of these terms and conditions, all of which shall remain valid and enforceable.
-
-### **Governing Law and Jurisdiction**
-
-By accessing this website and/or using the services available within this website, you agree that Singapore Law shall govern such access and the provision of such services, as well as the application of these terms and conditions. Further, you agree to submit to the non-exclusive jurisdiction of the Singapore courts regarding any and all disputes relating to these terms and conditions and/or the use of this website.
+17\. These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
