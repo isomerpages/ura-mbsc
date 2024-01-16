@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Wishing everyone a Happy 2024 from Marina Bay
-      background: /images/31122023_AUX_Colossal_Upload_Clean_335.jpg
+      background: /images/1048_x_450.jpg
       key_highlights:
         - title: Programmes
           description: ""
