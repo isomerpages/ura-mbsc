@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Marina Bay Singapore Countdown 2024
-      background: /images/fw-background.jpg
+      title: Wishing everyone a Happy 2024 from Marina Bay
+      background: /images/3144_x_1350.jpg
       key_highlights:
         - title: Programmes
           description: ""
