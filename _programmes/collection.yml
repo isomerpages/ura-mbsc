@@ -1,0 +1,8 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - TurboCharged.md
+      - "Ice Magic: Winter Wonderland.md"
+      - Mediacorp's Let's Celebrate 2024.md
+      - Esplanade Presents Come Together.md
