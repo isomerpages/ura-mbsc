@@ -19,8 +19,6 @@ as fireworks illuminate the skyline.</p>
 at 7.00pm, with a lineup of fun and exciting activities beginning at 7.30pm.
 These activities include DJ live spinning, food, drinks, games and opportunities
 to win prizes!</p>
-<p>For more information on <em>Let’s Celebrate 2024</em> and the exciting line-up
-of activities, visit <a href="https://www.mediacorp.sg/letscelebrate?gad_source=1&amp;gclid=CjwKCAiApuCrBhAuEiwA8VJ6Jgyeqruba9w7fAS8mq9a3VYDzQ9nU0G_2vbsKg-NC8MdgTTyIMoVNRoCxHsQAvD_BwE&amp;gclsrc=aw.ds" rel="noopener noreferrer nofollow" target="_blank">Mediacorp’s website</a>.</p>
 <p><strong>Venue:</strong> The Promontory at Marina Bay
 <br><strong>Date:</strong> 31 December 2023
 <br><strong>Time:</strong> Doors open at 7pm
