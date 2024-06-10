@@ -11,7 +11,7 @@ sections:
       background: /images/3144_x_1350.jpg
       key_highlights:
         - title: Programmes
-          description: ""
+          description: Programmes
           url: /programmes/mediacorps-lets-celebrate-2024/
         - title: Brightening Lives
           description: ""
