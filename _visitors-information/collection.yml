@@ -1,6 +1,0 @@
-collections:
-  visitors-information:
-    output: true
-    order:
-      - Getting Here.md
-      - Advisory.md
