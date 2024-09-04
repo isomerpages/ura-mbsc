@@ -1,6 +1,0 @@
-collections:
-  about:
-    output: true
-    order:
-      - Marina Bay Singapore Countdown 2024.md
-      - Acknowledgements.md
