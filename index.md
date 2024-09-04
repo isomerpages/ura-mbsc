@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "#MBSC2024"
+title: "#MBSC2025"
 description: Marina Bay Singapore Countdown
 image: /images/isomer-logo.svg
 permalink: /
