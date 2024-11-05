@@ -1,4 +1,5 @@
 collections:
   brightening-lives:
     output: true
-    order: []
+    order:
+      - Brightening Lives.md
