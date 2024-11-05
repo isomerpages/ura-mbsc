@@ -23,5 +23,5 @@ to a sensory feast for the eyes and ears.</p>
 <p>Marina Bay will feature inspiring light projections, light installations
 and exciting live performances. This year’s Countdown invites everyone
 to come together to create and celebrate timeless moments.</p>
-<p>For enquiries, please contact the MBSC 2025 team at <a rel="noopener noreferrer nofollow" target="_blank">ura_mbsc@ura.gov.sg</a>
+<p>For enquiries, please contact the MBSC 2025 team at <a href="mailto:ura_mbsc@ura.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ura_mbsc@ura.gov.sg</a>
 </p>
