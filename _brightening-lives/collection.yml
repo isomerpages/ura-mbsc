@@ -2,5 +2,5 @@ collections:
   brightening-lives:
     output: true
     order:
-      - About The Majurity Trust.md
       - About Brightening Lives.md
+      - About The Majurity Trust.md
