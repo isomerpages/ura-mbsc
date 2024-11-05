@@ -4,7 +4,7 @@ permalink: /about/acknowledgements/
 variant: markdown
 description: ""
 ---
-<h4 style="color:white;"></h4><br><br><br><table style="width:100%">
+<table style="width:100%">
     <tbody><tr>
       <td>
         <h4>Presented by</h4>
@@ -75,9 +75,21 @@ description: ""
         <br>
       </td>
     </tr><tr>
-        
-        
-        
-        
-      
+      <td>
+        <h4>Partner</h4>
+        <br>
+        <p>
+          <a href="https://web.archive.org/web/20240104000509/https://rivercruise.com.sg/">
+            <img src="/web/20240104000509im_/https://www.marinabaycountdown.gov.sg/images/SRC.jpg" alt="Image of Singapore River Cruise Logo">
+          </a>
+        </p>
+        <br>
+        <br>
+      </td>
+      <td>
+        <h4 style="color:white;"></h4>
+        <br>
+        <br>
+        <br>
+      </td>
     </tr><tr></tr></tbody></table>
