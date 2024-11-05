@@ -11,7 +11,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.ura.gov.sg/Corporate">
-            <img src="images/URA.jpg" alt="Image of URA Logo">
+            <img src="/images/URA.jpg" alt="Image of URA Logo">
           </a>
         </p>
         <br>
@@ -22,7 +22,7 @@ description: ""
         <br>
         <p>
           <a href="http://www.aux.com.sg/">
-            <img src="images/AuxMG.jpg" alt="Image of AUX Logo">
+            <img src="/images/AuxMG.jpg" alt="Image of AUX Logo">
           </a>
         </p>
         <br>
@@ -34,7 +34,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay">
-            <img src="images/MarinaBay.jpg" alt="Image of Marina Bay Logo">
+            <img src="/images/MarinaBay.jpg" alt="Image of Marina Bay Logo">
           </a>
         </p>
         <br>
@@ -45,7 +45,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.visitsingapore.com/en/">
-            <img src="images/SGPassion.jpg" alt="Image of SG Made Possible Logo">
+            <img src="/images/SGPassion.jpg" alt="Image of SG Made Possible Logo">
           </a>
         </p>
         <br>
@@ -57,7 +57,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.majurity.sg/">
-            <img src="images/TMT.jpg" alt="Image of The Majurity Trust Logo">
+            <img src="/images/TMT.jpg" alt="Image of The Majurity Trust Logo">
           </a>
         </p>
         <br>
@@ -68,7 +68,7 @@ description: ""
         <br>
         <p>
           <a href="https://www.marinabaysands.com/">
-            <img src="images/MBS.jpg" alt="Image of MBS Logo">
+            <img src="/images/MBS.jpg" alt="Image of MBS Logo">
           </a>
         </p>
         <br>
