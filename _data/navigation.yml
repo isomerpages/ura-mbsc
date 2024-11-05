@@ -1,2 +1,8 @@
 logo: /images/MBSC_logo__RGB_Long_.png
-links: []
+links:
+  - title: About
+    collection: about
+  - title: Programmes
+    collection: programmes
+  - title: Brightening Lives
+    collection: brightening-lives
