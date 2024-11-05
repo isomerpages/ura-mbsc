@@ -74,22 +74,4 @@ description: ""
         <br>
         <br>
       </td>
-    </tr><tr>
-      <td>
-        <h4>Partner</h4>
-        <br>
-        <p>
-          <a href="https://web.archive.org/web/20240104000509/https://rivercruise.com.sg/">
-            <img src="/web/20240104000509im_/https://www.marinabaycountdown.gov.sg/images/SRC.jpg" alt="Image of Singapore River Cruise Logo">
-          </a>
-        </p>
-        <br>
-        <br>
-      </td>
-      <td>
-        <h4 style="color:white;"></h4>
-        <br>
-        <br>
-        <br>
-      </td>
-    </tr><tr></tr></tbody></table>
+    </tr></tbody></table>
