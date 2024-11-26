@@ -1,4 +1,5 @@
 collections:
   artworks:
     output: true
-    order: []
+    order:
+      - Piece by Piece.md
