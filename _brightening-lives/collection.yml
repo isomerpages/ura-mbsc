@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Artwork/.keep
-      - Artworks.md
       - About Brightening Lives.md
       - About The Majurity Trust.md
       - About ART:DIS.md
