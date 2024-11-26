@@ -2,5 +2,6 @@ collections:
   brightening-lives:
     output: true
     order:
+      - Brightening Lives Artworks & ART:DIS artists.md
       - About Brightening Lives.md
       - About The Majurity Trust.md
