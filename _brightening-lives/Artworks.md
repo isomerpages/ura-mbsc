@@ -4,8 +4,8 @@ permalink: /artworks/
 variant: markdown
 description: ""
 ---
-<h2>Piece by Piece</h2>
 <div class="isomer-image-wrapper">
+	<div style="text-align: center;"> <h2>Piece by Piece</h2> </div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Piece by Piece&quot;" src="/images/YDAC_Piece_by_Piece_min.png">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
@@ -70,9 +70,9 @@ her to bring to life unique and imaginative characters into various artworks</p>
 </tbody>
 </table>
 <hr>
-<div class="isomer-image-wrapper">
+<div style="text-align: center;" class="isomer-image-wrapper"> <h2>In Flight</h2> </div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;In Flight&quot;" src="/images/Amelia_In_Flight_morning_version_min.png">
-</div>
+
 <h3><strong>Artwork inspiration</strong></h3>
 <p>Birds to&nbsp;Amelia represent what we as Singaporeans go through in our
 daily lives. In an ever-changing society, we have to adapt and endeavour
@@ -110,6 +110,7 @@ and imagination, reflecting her bold, creative spirit.</p>
 </table>
 <hr>
 <div class="isomer-image-wrapper">
+	<div style="text-align: center;"> <h2>Thriving in Singapore</h2> </div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Thriving in Singapore&quot;" src="/images/Abraham_Thriving_in_Singapore_min.png">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
@@ -147,6 +148,7 @@ His hope is that his art will engage, excite and inspire others.</p>
 </table>
 <hr>
 <div class="isomer-image-wrapper">
+	<div style="text-align: center;"> <h2>Botanical Flourish</h2> </div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Botanical Flourish&quot;" src="/images/Botanical_Flourish_Abraham.jpg">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
@@ -183,6 +185,7 @@ His hope is that his art will engage, excite and inspire others.</p>
 </table>
 <hr>
 <div class="isomer-image-wrapper">
+	<div style="text-align: center;"> <h2>Orchids Reverie</h2> </div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Orchids Reverie&quot;" src="/images/Orchids_Reverie_Nichole_Koo_Styleframe.jpg">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
@@ -214,6 +217,7 @@ environment, creating an oasis of calm energy for herself and viewers.</p>
 </table>
 <hr>
 <div class="isomer-image-wrapper">
+	<div style="text-align: center;"> <h2>Towards A Sustainable Future</h2> </div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Towards A Sustainable Future&quot;" src="/images/Towards_A_Sustainable_Future_Noah.jpg">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
@@ -246,6 +250,7 @@ to community, Noah is a recipient of the Goh Chok Tong Enable Award 2021.</p>
 </table>
 <hr>
 <div class="isomer-image-wrapper">
+	<div style="text-align: center;"> <h2>Love Is In The air</h2> </div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Love Is In The Air&quot;" src="/images/Love_is_in_the_Air_Noah_Tan_min.png">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
@@ -279,6 +284,7 @@ to community, Noah is a recipient of the Goh Chok Tong Enable Award 2021.</p>
 </table>
 <hr>
 <div class="isomer-image-wrapper">
+	<div style="text-align: center;"> <h2>Peaceful Night</h2> </div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Peaceful Night&quot;" src="/images/Peaceful_Night_Zoe.jpg">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
