@@ -24,8 +24,9 @@ lights, immersive displays and larger-than-life installations.</p>
 <p></p>
 <p>Grab a picnic basket filled with delicious treats, settle onto a comfy
 mat and explore illumi’s nine uniquely themed worlds, each offering its
-own enchanting atmosphere for the perfect picnic spot.</p>
-<p></p>
+own enchanting atmosphere for the perfect picnic spot.
+<br>
+</p>
 <p>As midnight approaches, join the excitement of the ONE Countdown 2025
 celebration. Watch the live countdown on a giant screen at illumi, then
 look up to catch glimpses of the spectacular fireworks — making it the
