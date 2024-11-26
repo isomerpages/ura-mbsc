@@ -2,11 +2,11 @@ collections:
   artworks:
     output: true
     order:
-      - Peaceful Night.md
-      - Love Is In The Air.md
-      - Towards A Sustainable Future.md
-      - Orchids Reverie.md
-      - Botanical Flourish.md
-      - Thriving in Singapore.md
-      - In Flight.md
       - Piece by Piece.md
+      - In Flight.md
+      - Thriving in Singapore.md
+      - Botanical Flourish.md
+      - Orchids Reverie.md
+      - Towards A Sustainable Future.md
+      - Love Is In The Air.md
+      - Peaceful Night.md
