@@ -2,6 +2,7 @@ collections:
   brightening-lives:
     output: true
     order:
+      - Artwork/Artworks.md
       - Artwork/.keep
       - About Brightening Lives.md
       - About The Majurity Trust.md
