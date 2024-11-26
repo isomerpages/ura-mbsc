@@ -21,7 +21,7 @@ sections:
           url: /visitors-information/event-map
         - title: Artworks
           description: ""
-          url: /artworks
+          url: /artworks/piece-by-piece
   - infopic:
       title: Highlights around Marina Bay at a glance
       id: infopic
