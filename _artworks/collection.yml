@@ -2,4 +2,5 @@ collections:
   artworks:
     output: true
     order:
+      - In Flight.md
       - Piece by Piece.md
