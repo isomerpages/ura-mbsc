@@ -2,6 +2,7 @@ collections:
   brightening-lives:
     output: true
     order:
+      - About ART:DIS.md
       - Adapted artworks.md
       - Brightening Lives Artworks & ART:DIS artists.md
       - About Brightening Lives.md
