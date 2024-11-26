@@ -4,9 +4,9 @@ permalink: /artworks/
 variant: markdown
 description: ""
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Piece by Piece&quot;" src="/images/YDAC_Piece_by_Piece_min.png">
+	Name of artwork: Piece by Piece
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
 <p>This collaborative artwork about growth is inspired by building blocks,
