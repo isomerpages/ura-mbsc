@@ -2,6 +2,7 @@ collections:
   brightening-lives:
     output: true
     order:
+      - Artworks/In Flight.md
       - Artworks/Piece by Piece.md
       - Artworks/.keep
       - About Brightening Lives.md
