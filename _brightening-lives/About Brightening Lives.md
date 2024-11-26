@@ -5,12 +5,11 @@ variant: tiptap
 description: ""
 ---
 <p>This year’s <strong><em>Brightening Lives</em></strong> light projections,
-presented in collaboration with community partner and local philanthropic
+presented in collaboration withcommunity partner and local philanthropic
 organisation The Majurity Trust, will showcase a series of original artworks
 created by artists with disabilities from ART:DIS, a local non-profit organisation
 which seeks to provide learning and livelihood opportunities for persons
 with disabilities through art.</p>
-<p>&nbsp;</p>
 <p>From 26 to 31 December 2024, the facade of The Fullerton Hotel Singapore
 will come alive with projections adapted from three newly commissioned
 artworks, in addition to five existing artworks that reflect what it means
