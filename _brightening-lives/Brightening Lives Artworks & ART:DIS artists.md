@@ -4,21 +4,20 @@ permalink: /brightening-lives-artworks-art-dis-artists/
 variant: markdown
 description: ""
 ---
-
 # Newly commissioned artworks
 
 
-![Artwork called "Piece By Piece"](/images/Piece_by_piece.png)
+![Image of an Artwork called "Piece By Piece"](/images/Piece_by_piece.png)
 **Name of artwork: Piece by Piece**
 
-**Artwork inspiration**
+### Artwork inspiration
 
 This collaborative artwork about growth is inspired by building blocks, which most people might recall from their childhood. Just as each block in a structure comes in various shapes and sizes, so do our experiences, abilities and the paths that we may take. The galaxy in the artwork represents the vastness of a universe of potential, symbolising unlimited possibilities and imagination. It also symbolises how we are all interconnected, representing a collective sense of belonging.
 
 Incorporated into the artwork as well are the artists’ unique aspirations. Sophie aspires to be an artist while Crystal’s imagination flourishes in nature. Crystal enjoys watching garden animals and insects such as snails and butterflies, and decorating flowers. Brennan’s creativity comes alive when he bakes, and he would like to be a baker someday. While the three of them have different passions and capabilities, they believe that their dreams, hard work and determination are still valid, no matter how long it takes to get there.
 
 
-**Artist profile**
+### Artist profile
 
 |  Brennan Tay | Crystal Tay | Sophie Valerio |
 | -------- | -------- | -------- |
@@ -30,11 +29,11 @@ Incorporated into the artwork as well are the artists’ unique aspirations. Sop
 ![Image of an Artwork called "In Flight"](/images/In_Flight.png)
 **Name of artwork: In Flight**
 
-**Artwork inspiration**
+### Artwork inspiration
 
 Birds to&nbsp;Amelia represent what we as Singaporeans go through in our daily lives. In an ever-changing society, we have to adapt and endeavour as we venture through life. Like fledglings taking their first flight, we navigate different environments even as we long for the familiar and tackle challenges such as mental health struggles as we pursue our dreams of a brighter future for ourselves, our family and our future generations. Through thick and thin, we face hardships head on and gain wisdom from our experiences, as we grow and eventually break through like fully fledged birds.
 
-**Artist profile**
+###  Artist profile
 
 
 | Amelia Tan |
@@ -43,6 +42,15 @@ Birds to&nbsp;Amelia represent what we as Singaporeans go through in our daily l
 
 <br><br>
 
+![Image of an Artwork called "Thriving in Singapore"](/images/Thriving_In_Singapore.png)
+**Name of artwork: Thriving in Singapore**
 
+### Artwork inspiration
 
+This artwork explores the interplay of inclusivity and empowerment. Singapore is made up of people of different races, abilities, talents, passions and backgrounds. Young or old, everyone is important and can contribute to society. Every one of us can achieve our goals if we believe in ourselves and are supported. Given the right opportunities, we are empowered to succeed in life if we persevere. No one can thrive or survive alone. We all need each other, so we must help one another and live in harmony.
 
+### Artist profile
+
+| Abraham Koh |
+| -------- |
+|  Abraham Koh, who is under the Emerging Artist programme at ART:DIS, specialises in drawing and painting. He is intrigued by different modern and contemporary art styles. Abraham uses lines as well as bold, saturated and contrasting colours that contribute to his unique style of painting. His themes revolve around personal experiences of family, everyday scenes, people and their surroundings. His body of work, which includes assemblage and sculpture, have received awards of commendation at various art exhibitions and competitions. His hope is that his art will engage, excite and inspire others.     | 
