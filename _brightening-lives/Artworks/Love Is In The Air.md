@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Artworks
 ---
 <div class="isomer-image-wrapper">
-	<div style="text-align: center;"> <h2>Love Is In The air</h2> </div>
+	<div style="text-align: center;"> <h2>Love Is In The Air</h2> </div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Love Is In The Air&quot;" src="/images/Love_is_in_the_Air_Noah_Tan_min.png">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
