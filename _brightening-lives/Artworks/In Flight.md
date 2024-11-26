@@ -5,8 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Artworks
 ---
-
-![Artwork titled "In Flight"](/images/Amelia_In_Flight_morning_version_min.png)
+<div class="isomer-image-wrapper">
+	<div style="text-align: center;"> <h2>In Flight</h2> </div>
+<img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;In Flight&quot;" src="/images/Amelia_In_Flight_morning_version_min.png">
+</div>
 <h3><strong>Artwork inspiration</strong></h3>
 <p>Birds to&nbsp;Amelia represent what we as Singaporeans go through in our
 daily lives. In an ever-changing society, we have to adapt and endeavour
