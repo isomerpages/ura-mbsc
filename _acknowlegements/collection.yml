@@ -1,5 +1,4 @@
 collections:
   acknowlegements:
     output: true
-    order:
-      - Acknowledgements.md
+    order: []
