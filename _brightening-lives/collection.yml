@@ -2,6 +2,7 @@ collections:
   brightening-lives:
     output: true
     order:
+      - Artworks/Peaceful Night.md
       - Artworks/Love Is In The Air.md
       - Artworks/Towards A Sustainable Future.md
       - Artworks/Orchids Reverie.md
