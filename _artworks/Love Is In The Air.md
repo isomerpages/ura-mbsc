@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Love Is In The Air&quot;" src="/images/Love_is_in_the_Air_Noah_Tan_min.png">
 </div>
