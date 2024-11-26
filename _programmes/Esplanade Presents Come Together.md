@@ -13,7 +13,7 @@ description: ""
 <br><strong>Time</strong>: Various
 <br><strong>Ticketing information</strong>: Free admission</p>
 <p></p>
-<p>Esplanade – Theatres on the Bay will present, <strong>Come Together</strong>,
+<p>Esplanade – Theatres on the Bay will present <strong>Come Together</strong>,
 a series of free music performances throughout December at the DBS Foundation
 Outdoor Theatre and Esplanade Concourse.</p>
 <p></p>
