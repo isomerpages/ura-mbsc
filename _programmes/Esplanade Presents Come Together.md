@@ -29,6 +29,6 @@ the beautiful Marina Bay skyline as a backdrop, accompanied by the dazzling
 fireworks, this night of live performances will have you up and, on your
 feet, dancing your way into 2025.&nbsp;</p>
 <p></p>
-<p>For more information, please visit <a rel="noopener noreferrer nofollow" target="_blank">www.esplanade.com/cometogether</a><strong>.</strong>
+<p>For more information, please visit <a href="www.esplanade.com/cometogether" rel="noopener noreferrer nofollow" target="_blank">www.esplanade.com/cometogether</a><strong>.</strong>
 </p>
 <p>&nbsp;</p>
