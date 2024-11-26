@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="One Countdown 2025" src="/images/ONE_Countdown.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="One Countdown 2025 poster" src="/images/v5_countdown_2025_P_min.jpg">
 </div>
 <p>ONE Countdown 2025 will usher in the new year, with celebrations across
 multiple locations and fireworks displays at various countdown celebration
