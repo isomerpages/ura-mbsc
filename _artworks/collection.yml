@@ -2,5 +2,6 @@ collections:
   artworks:
     output: true
     order:
+      - Thriving in Singapore.md
       - In Flight.md
       - Piece by Piece.md
