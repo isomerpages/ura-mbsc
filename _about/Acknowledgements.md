@@ -63,6 +63,18 @@ description: ""
         <br>
         <br>
       </td>
+			<td>
+        <h4>Partner</h4>
+        <br>
+        <p>
+          <a href="https://rivercruise.com.sg//">
+            <img src="/images/Singapore-River-Cruise-LOGO.png" alt="Image of Singapore River Cruise Logo">
+          </a>
+        </p>
+        <br>
+        <br>
+      </td>
+			</tr><tr>
       <td>
         <h4>Prime Sponsor</h4>
         <br>
