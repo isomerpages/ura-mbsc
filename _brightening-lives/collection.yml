@@ -2,6 +2,7 @@ collections:
   brightening-lives:
     output: true
     order:
+      - Adapted artworks.md
       - Brightening Lives Artworks & ART:DIS artists.md
       - About Brightening Lives.md
       - About The Majurity Trust.md
