@@ -1,7 +1,7 @@
 ---
 title: Illumi
 permalink: /programmes/illumi/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p></p>
