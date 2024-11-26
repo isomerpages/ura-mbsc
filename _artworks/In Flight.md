@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;In Flight&quot;" src="/images/Amelia_In_Flight_night_version_min.png">
+<img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;In Flight&quot;" src="/images/Amelia_In_Flight_morning_version_min.png">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
 <p>Birds to&nbsp;Amelia represent what we as Singaporeans go through in our
