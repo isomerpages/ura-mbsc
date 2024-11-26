@@ -16,11 +16,11 @@ description: ""
 on 1 January 2025.)
 <br><strong>Ticketing information</strong>: Ticketed (Tickets on sale soon,
 please find more information at <a href="https://illumi.asia/" rel="noopener noreferrer nofollow" target="_blank">www.illumi.asia</a>.)</p>
-<p>This New Year’s Eve, <strong><em>illumi</em></strong> invites you to ring
-in 2025 like never before! For the very first time, celebrate at one of
-the world’s largest light, sound and multimedia events, now in Singapore.
-Picture a magical picnic under the stars, surrounded by millions of LED
-lights, immersive displays and larger-than-life installations.</p>
+<p>This New Year’s Eve, <strong>illumi</strong> invites you to ring in 2025
+like never before! For the very first time, celebrate at one of the world’s
+largest light, sound and multimedia events, now in Singapore. Picture a
+magical picnic under the stars, surrounded by millions of LED lights, immersive
+displays and larger-than-life installations.</p>
 <p></p>
 <p>Grab a picnic basket filled with delicious treats, settle onto a comfy
 mat and explore illumi’s nine uniquely themed worlds, each offering its
