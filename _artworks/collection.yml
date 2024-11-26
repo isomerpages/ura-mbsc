@@ -2,6 +2,7 @@ collections:
   artworks:
     output: true
     order:
+      - Towards A Sustainable Future.md
       - Orchids Reverie.md
       - Botanical Flourish.md
       - Thriving in Singapore.md
