@@ -15,7 +15,7 @@ description: ""
 8.30pm. All patrons for these sessions can stay in the park until 1.00am
 on 1 January 2025.)
 <br><strong>Ticketing information</strong>: Ticketed (Tickets on sale soon,
-please find more information at <a rel="noopener noreferrer nofollow" target="_blank">www.illumi.asia</a>.)</p>
+please find more information at <a href="https://illumi.asia/" rel="noopener noreferrer nofollow" target="_blank">www.illumi.asia</a>.)</p>
 <p>This New Year’s Eve, <strong><em>illumi</em></strong> invites you to ring
 in 2025 like never before! For the very first time, celebrate at one of
 the world’s largest light, sound and multimedia events, now in Singapore.
