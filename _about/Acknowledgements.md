@@ -68,7 +68,7 @@ description: ""
         <br>
         <p>
           <a href="https://rivercruise.com.sg//">
-            <img src="/images/Singapore-River-Cruise-LOGO.png" alt="Image of Singapore River Cruise Logo">
+            <img src="/images/Singapore_River_Cruise_LOGO.png" alt="Image of Singapore River Cruise Logo">
           </a>
         </p>
         <br>
