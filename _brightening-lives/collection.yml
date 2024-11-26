@@ -2,6 +2,7 @@ collections:
   brightening-lives:
     output: true
     order:
+      - Artworks/Orchids Reverie.md
       - Artworks/Botanical Flourish.md
       - Artworks/Thriving in Singapore.md
       - Artworks/In Flight.md
