@@ -18,7 +18,7 @@ Orchard and Clarke Quay, there are 17 heartland sites, so Singaporeans
 can enjoy the festivities with their respective local communities, without
 having to travel out of their neighbourhoods. For migrant workers, there
 will also be countdown celebrations at Migrant Worker Recreation Centres
-(RCs) and Dormitories.</p>
-<p></p>
-<p><em>Marina Bay Singapore Countdown 2025 is a ONE Countdown 2025 event. As part of SG60, ONE Countdown 2025 celebrations will bring everyone together to usher in the new year, with celebrations across the island. Find out more about ONE Countdown 2025 at:</em><strong><em><a rel="noopener noreferrer nofollow" target="_blank">www.sg60.gov.sg/one-countdown-2025/</a></em></strong><em>..</em>
+(RCs) and Dormitories.
+<br>
+<br><em>Marina Bay Singapore Countdown 2025 is a ONE Countdown 2025 event. As part of SG60, ONE Countdown 2025 celebrations will bring everyone together to usher in the new year, with celebrations across the island. Find out more about ONE Countdown 2025 at:</em><strong><em><a rel="noopener noreferrer nofollow" target="_blank">www.sg60.gov.sg/one-countdown-2025/</a></em></strong><em>.</em>
 </p>
