@@ -2,5 +2,5 @@ collections:
   programmes:
     output: true
     order:
-      - Illumi.md
+      - illumi.md
       - Esplanade Presents Come Together.md
