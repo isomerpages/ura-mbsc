@@ -2,7 +2,7 @@ collections:
   artworks:
     output: true
     order:
-      - Orchid Reverie.md
+      - Orchids Reverie.md
       - Botanical Flourish.md
       - Thriving in Singapore.md
       - In Flight.md
