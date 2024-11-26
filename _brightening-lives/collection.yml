@@ -2,6 +2,7 @@ collections:
   brightening-lives:
     output: true
     order:
+      - About Brightening Lives.md
       - Artworks/.keep
       - Artworks/Piece by Piece.md
       - Artworks/In Flight.md
@@ -11,6 +12,5 @@ collections:
       - Artworks/Towards A Sustainable Future.md
       - Artworks/Love Is In The Air.md
       - Artworks/Peaceful Night.md
-      - About Brightening Lives.md
       - About The Majurity Trust.md
       - About ART:DIS.md
