@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A birds eye view on how the Illumi event will look like" src="/images/Illumi.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/illumi.jpg">
 </div>
 <p><strong>Venue</strong>: Bayfront Event Space
 <br><strong>Date</strong>: 13 September 2024 to 2 February 2025
