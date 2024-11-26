@@ -10,7 +10,7 @@ third_nav_title: Artworks
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Botanical Flourish&quot;" src="/images/Botanical_Flourish_Abraham.jpg">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
-<p>Another artwork by Abraham Koh, <em>Botanical Flourish</em> seeks to bring
+<p><em>Botanical Flourish</em> seeks to bring
 to life the multifaceted aspects of Singapore. Singapore is known as a
 garden city but beyond flowers, leaves also add much vibrancy to the landscape
 with its varying sizes, shapes and patterns. This artwork celebrates leaves
