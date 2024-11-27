@@ -1,0 +1,6 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - illumi.md
+      - Esplanade Presents Come Together.md

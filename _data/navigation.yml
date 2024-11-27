@@ -1,2 +1,10 @@
-logo: /images/MBSC_logo__RGB_Long_.png
-links: []
+logo: /images/MBSC_logo__Website_with_SG60_.png
+links:
+  - title: About
+    collection: about
+  - title: Programmes
+    collection: programmes
+  - title: Brightening Lives
+    collection: brightening-lives
+  - title: Visitors' Information
+    collection: visitors-information
