@@ -6,7 +6,12 @@ description: ""
 third_nav_title: Artworks
 ---
 <div class="isomer-image-wrapper">
-	<div style="text-align: center;"> <h2>Piece by Piece</h2> </div>
+	<div style="text-align: center;">
+    <h2 style="margin: 0;">Piece by Piece</h2>
+    <div>
+        <p style="margin: 0;">Newly Commissioned</p>
+    </div>
+</div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Piece by Piece&quot;" src="/images/YDAC_Piece_by_Piece_min.png">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
