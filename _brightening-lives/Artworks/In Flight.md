@@ -6,7 +6,11 @@ description: ""
 third_nav_title: Artworks
 ---
 <div class="isomer-image-wrapper">
-	<div style="text-align: center;"> <h2>In Flight</h2> </div>
+	<div style="text-align: center;">
+		<h2 style="margin: 0; padding: 0;">In Flight</h2>
+        <div>
+            <p style="margin: -15px 0 15px 0;">Newly Commissioned</p>
+        </div></div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;In Flight&quot;" src="/images/Amelia_In_Flight_morning_version_min.png">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
