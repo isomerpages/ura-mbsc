@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Artworks
 ---
 <div class="isomer-image-wrapper">
-	<div style="text-align: center;"> <h2>Orchids Reverie</h2> </div>
+	<div style="text-align: center;"> <h2>Orchid Reverie</h2> </div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Orchids Reverie&quot;" src="/images/Orchids_Reverie_Nichole_Koo_Styleframe.jpg">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
