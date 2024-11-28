@@ -6,7 +6,12 @@ description: ""
 third_nav_title: Artworks
 ---
 <div class="isomer-image-wrapper">
-	<div style="text-align: center;"> <h2>Towards A Sustainable Future</h2> </div>
+	<div style="text-align: center;">
+	<h2 style="margin: 0; padding: 0;">Towards a Sustainable Future</h2>
+        <div>
+            <p style="margin: -15px 0 15px 0;">Adapted</p>
+        </div>
+	</div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Towards A Sustainable Future&quot;" src="/images/Towards_A_Sustainable_Future_Noah.jpg">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
