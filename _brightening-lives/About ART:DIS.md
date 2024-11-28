@@ -18,7 +18,7 @@ by ART:DIS to support the artists with disabilities. Festive shoppers can
 contribute to this meaningful cause by purchasing memorabilia of this iconic
 celebration and other products at <a href="http://www.artdis-studio.com" rel="noopener noreferrer nofollow" target="_blank">www.artdis-studio.com</a>.</p>
 <p></p>
-<div class="isomer-card-grid">
+<div style="text-align: center;" class="isomer-card-grid">
 <div style="border: 1;" class="isomer-card">
 <img style="width: 100%" height="auto" width="100%" alt="12oz Bottle" src="/images/Carter_Blue_12oz_Noah.jpg">
 <div class="isomer-card-body">
@@ -33,7 +33,7 @@ celebration and other products at <a href="http://www.artdis-studio.com" rel="no
 </div>
 </div>
 <p></p>
-<div class="isomer-card-grid">
+<div style="text-align: center;" class="isomer-card-grid">
 <div style="border: 1;" class="isomer-card">
 <img style="width: 100%" height="auto" width="100%" alt="socks" src="/images/Sock_Abraham_min.jpg">
 <div class="isomer-card-body">
