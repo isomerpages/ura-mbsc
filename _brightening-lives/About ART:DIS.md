@@ -19,22 +19,14 @@ contribute to this meaningful cause by purchasing memorabilia of this iconic
 celebration and other products at <a href="http://www.artdis-studio.com" rel="noopener noreferrer nofollow" target="_blank">www.artdis-studio.com</a>.</p>
 <p></p>
 <div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
+<div style="border: 1;" class="isomer-card">
 <img style="width: 100%" height="auto" width="100%" alt="12oz Bottle" src="/images/Carter_Blue_12oz_Noah.jpg">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Love Is In The Air, Noah Tan</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Colorful passport" src="/images/Passport_Zoe.jpg">
-</div>
-</div>
+<div style="border: 1;" class="isomer-card">
+<img style="width: 80%" height="auto" width="100%" alt="Colorful passport" src="/images/Passport_Zoe.jpg">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Peaceful Night, Zoe tan</div>
 </div>
@@ -42,22 +34,14 @@ celebration and other products at <a href="http://www.artdis-studio.com" rel="no
 </div>
 <p></p>
 <div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
+<div style="border: 1;" class="isomer-card">
 <img style="width: 100%" height="auto" width="100%" alt="socks" src="/images/Sock_Abraham_min.jpg">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Botanical Flourish, Abraham Koh</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
+<div style="border: 1;" class="isomer-card">
 <img style="width: 100%" height="auto" width="100%" alt="Hand bag" src="/images/Bag_Nicole.jpg">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Orchid Reverie</div>
 </div>
