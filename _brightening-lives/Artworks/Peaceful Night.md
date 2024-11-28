@@ -6,7 +6,12 @@ description: ""
 third_nav_title: Artworks
 ---
 <div class="isomer-image-wrapper">
-	<div style="text-align: center;"> <h2>Peaceful Night</h2> </div>
+	<div style="text-align: center;">
+	<h2 style="margin: 0; padding: 0;">Peaceful Night</h2>
+        <div>
+            <p style="margin: -15px 0 15px 0;">Adapted</p>
+        </div>
+	</div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Peaceful Night&quot;" src="/images/Peaceful_Night_Zoe.jpg">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
