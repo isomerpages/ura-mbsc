@@ -6,14 +6,13 @@ description: ""
 third_nav_title: Artworks
 ---
 <div class="isomer-image-wrapper">
-	<div style="text-align: center;">
-    <h2 style="margin: 0;">Piece by Piece</h2>
-    <div>
-        <p style="margin: 0;">Newly Commissioned</p>
-    </div>
+<div style="text-align: center; padding: 0;">
+<h2 style="margin: 0; padding: 0;">Piece by Piece</h2>
+<p style="margin: 0; padding: 0;">Newly Commissioned</p>
+</div>
 </div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Piece by Piece&quot;" src="/images/YDAC_Piece_by_Piece_min.png">
-</div>
+
 <h3><strong>Artwork inspiration</strong></h3>
 <p>This collaborative artwork about growth is inspired by building blocks,
 which most people might recall from their childhood. Just as each block
