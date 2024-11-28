@@ -37,7 +37,7 @@ celebration and other products at <a href="http://www.artdis-studio.com" rel="no
 <div style="border: 1;" class="isomer-card">
 <img style="width: 100%" height="auto" width="100%" alt="socks" src="/images/Sock_Abraham_min.jpg">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Botanical Flourish, Abraham Koh</div>
+<div style="text-align: center;" class="isomer-card-title">Botanical Flourish, Abraham Koh</div>
 </div>
 </div>
 <div style="border: 1;" class="isomer-card">
