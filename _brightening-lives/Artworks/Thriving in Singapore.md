@@ -6,7 +6,12 @@ description: ""
 third_nav_title: Artworks
 ---
 <div class="isomer-image-wrapper">
-	<div style="text-align: center;"> <h2>Thriving in Singapore</h2> </div>
+	<div style="text-align: center;">
+		<h2 style="margin: 0; padding: 0;">Thriving in Singapore</h2>
+        <div>
+            <p style="margin: -15px 0 15px 0;">Newly Commissioned</p>
+        </div>
+	</div>
 <img style="width: 100%" height="auto" width="100%" alt="Artwork titled &quot;Thriving in Singapore&quot;" src="/images/Abraham_Thriving_in_Singapore_min.png">
 </div>
 <h3><strong>Artwork inspiration</strong></h3>
