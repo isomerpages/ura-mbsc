@@ -7,7 +7,7 @@ third_nav_title: Artworks
 ---
 <div class="isomer-image-wrapper">
 	<div style="text-align: center;">
-	<h2 style="margin: 0; padding: 0;">Piece by Piece</h2>
+		<h2 style="margin: 0; padding: 0;">Piece by Piece</h2>
         <div>
             <p style="margin: -15px 0 15px 0;">Newly Commissioned</p>
         </div>
