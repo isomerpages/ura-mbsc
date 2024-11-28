@@ -9,11 +9,11 @@ third_nav_title: Artworks
     <div style="text-align: center;">
         <h2 style="margin: 0; padding: 0;">Piece by Piece</h2>
         <div>
-            <p style="margin: -15px 0 20px 0;">Newly Commissioned</p>
+            <p style="margin: -15px 0 15px 0;">Newly Commissioned</p>
         </div>
     </div>
 </div>
-<img style="width: 100%; margin-top: 20px;" height="auto" width="100%" alt="Artwork titled &quot;Piece by Piece&quot;" src="/images/YDAC_Piece_by_Piece_min.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Artwork titled &quot;Piece by Piece&quot;" src="/images/YDAC_Piece_by_Piece_min.png">
 <h3><strong>Artwork inspiration</strong></h3>
 <p>This collaborative artwork about growth is inspired by building blocks,
 which most people might recall from their childhood. Just as each block
