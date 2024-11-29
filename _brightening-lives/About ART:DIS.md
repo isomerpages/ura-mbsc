@@ -49,3 +49,56 @@ celebration and other products at <a href="http://www.artdis-studio.com" rel="no
 </div>
 <p>Further information is available at <a href="http://www.artdis.org.sg" rel="noopener noreferrer nofollow" target="_blank">www.artdis.org.sg</a>.</p>
 <p></p>
+
+<style>
+.isomer-card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  width: 550px;
+  margin: auto;
+  text-align: center;
+}
+
+.isomer-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  flex: 1 1 calc(50% - 20px);
+  box-sizing: border-box;
+}
+
+.isomer-card img {
+  width: 100%;
+  height: auto;
+}
+
+.isomer-card-title {
+  font-size: 0.9em;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+  .isomer-card-grid {
+    width: 100%;
+  }
+
+  .isomer-card {
+    flex: 1 1 100%;
+  }
+
+  .isomer-card-title {
+    font-size: 0.8em;
+  }
+}
+
+@media (max-width: 480px) {
+  .isomer-card {
+    padding: 5px;
+  }
+
+  .isomer-card-title {
+    font-size: 0.7em;
+  }
+}
+</style>
