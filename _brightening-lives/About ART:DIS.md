@@ -65,7 +65,7 @@ celebration and other products at <a href="http://www.artdis-studio.com" rel="no
 .isomer-card {
   border: 1px solid #ccc;
   padding: 10px;
-  flex: 1 1 calc(50% - 20px); /* Two cards per row with gap */
+  flex: 1 1 calc(50% - 20px);
   box-sizing: border-box;
 }
 
@@ -85,7 +85,7 @@ celebration and other products at <a href="http://www.artdis-studio.com" rel="no
   }
 
   .isomer-card {
-    flex: 1 1 100%; /* One card per row on smaller screens */
+    flex: 1 1 100%;
   }
 
   .isomer-card-title {
