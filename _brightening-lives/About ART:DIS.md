@@ -18,88 +18,34 @@ by ART:DIS to support the artists with disabilities. Festive shoppers can
 contribute to this meaningful cause by purchasing memorabilia of this iconic
 celebration and other products at <a href="http://www.artdis-studio.com" rel="noopener noreferrer nofollow" target="_blank">www.artdis-studio.com</a>.</p>
 <p></p>
-<div class="isomer-card-grid">
-  <div class="isomer-card">
-    <img alt="12oz Bottle" src="/images/Carter_Blue_12oz_Noah.jpg">
-    <div class="isomer-card-body">
-      <div class="isomer-card-title">Love Is In The Air, Noah Tan</div>
-    </div>
-  </div>
-  <div class="isomer-card">
-    <img alt="Colorful passport" src="/images/Passport_Zoe.jpg">
-    <div class="isomer-card-body">
-      <div class="isomer-card-title">Peaceful Night, Zoe Tan</div>
-    </div>
-  </div>
+<div style="text-align: center; width: 550px; margin: auto;" class="isomer-card-grid">
+<div style="border: 1;" class="isomer-card">
+<img style="width: 100%" height="auto" width="100%" alt="12oz Bottle" src="/images/Carter_Blue_12oz_Noah.jpg">
+<div class="isomer-card-body">
+<div style="font-size: 0.9em;" class="isomer-card-title">Love Is In The Air, Noah Tan</div>
 </div>
-<div class="isomer-card-grid">
-  <div class="isomer-card">
-    <img alt="socks" src="/images/Sock_Abraham_min.jpg">
-    <div class="isomer-card-body">
-      <div class="isomer-card-title">Botanical Flourish, Abraham Koh</div>
-    </div>
-  </div>
-  <div class="isomer-card">
-    <img alt="Hand bag" src="/images/Bag_Nicole.jpg">
-    <div class="isomer-card-body">
-      <div class="isomer-card-title">Orchid Reverie</div>
-    </div>
-  </div>
 </div>
-
-<style>
-/* General Styling */
-.isomer-card-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 10px;
-  width: 550px;
-  margin: auto;
-  text-align: center;
-}
-
-.isomer-card {
-  border: 1px solid #ccc;
-  padding: 10px;
-  flex: 1 1 calc(50% - 20px); /* Two cards per row with gap */
-  box-sizing: border-box;
-}
-
-.isomer-card img {
-  width: 100%;
-  height: auto;
-}
-
-.isomer-card-title {
-  font-size: 0.9em;
-}
-
-/* Responsive Styling */
-@media (max-width: 768px) {
-  .isomer-card-grid {
-    width: 100%;
-  }
-
-  .isomer-card {
-    flex: 1 1 100%; /* One card per row on smaller screens */
-  }
-
-  .isomer-card-title {
-    font-size: 0.8em;
-  }
-}
-
-@media (max-width: 480px) {
-  .isomer-card {
-    padding: 5px;
-  }
-
-  .isomer-card-title {
-    font-size: 0.7em;
-  }
-}
-</style>
-
+<div style="border: 1;" class="isomer-card">
+<img style="width: 80%" height="auto" width="100%" alt="Colorful passport" src="/images/Passport_Zoe.jpg">
+<div class="isomer-card-body">
+<div style="font-size: 0.9em;" class="isomer-card-title">Peaceful Night, Zoe tan</div>
+</div>
+</div>
+</div>
+<p></p>
+<div style="text-align: center; width: 550px; margin: auto;" class="isomer-card-grid">
+<div style="border: 1;" class="isomer-card">
+<img style="width: 100%" height="auto" width="100%" alt="socks" src="/images/Sock_Abraham_min.jpg">
+<div class="isomer-card-body">
+<div style="font-size: 0.9em;" class="isomer-card-title">Botanical Flourish, Abraham Koh</div>
+</div>
+</div>
+<div style="border: 1;" class="isomer-card">
+<img style="width: 100%" height="auto" width="100%" alt="Hand bag" src="/images/Bag_Nicole.jpg">
+<div class="isomer-card-body">
+<div style="font-size: 0.9em;" class="isomer-card-title">Orchid Reverie</div>
+</div>
+</div>
+</div>
 <p>Further information is available at <a href="http://www.artdis.org.sg" rel="noopener noreferrer nofollow" target="_blank">www.artdis.org.sg</a>.</p>
 <p></p>
