@@ -42,7 +42,7 @@ celebration and other products at <a href="http://www.artdis-studio.com" rel="no
   <div class="isomer-card">
     <img alt="Hand bag" src="/images/Bag_Nicole.jpg">
     <div class="isomer-card-body">
-      <div class="isomer-card-title">Orchid Reverie</div>
+      <div class="isomer-card-title">Orchid Reverie, Nicole Koo</div>
     </div>
   </div>
 </div>
