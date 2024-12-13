@@ -2,7 +2,7 @@
 title: Event Map
 permalink: /visitors-information/event-map/
 variant: tiptap
-description: ""
+description: Marina Bay Singapore Countdown 2025 events map.
 ---
 <p></p>
 <div class="isomer-image-wrapper">

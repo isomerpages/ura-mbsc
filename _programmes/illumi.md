@@ -2,7 +2,7 @@
 title: illumi
 permalink: /programmes/illumi/
 variant: tiptap
-description: ""
+description: illumi invites you to ring in 2025 like never before!
 ---
 <p></p>
 <div class="isomer-image-wrapper">

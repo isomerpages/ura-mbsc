@@ -2,7 +2,7 @@
 title: Marina Bay Singapore Countdown 2025
 permalink: /about/marina-bay-singapore-countdown-2025/
 variant: tiptap
-description: ""
+description: The Marina Bay Singapore Countdown returns for its 20th edition.
 ---
 <p>The <strong><em>Marina Bay Singapore Countdown</em></strong>, presented
 by the Urban Redevelopment Authority (URA), returns for its 20th edition
