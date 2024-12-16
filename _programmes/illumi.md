@@ -28,6 +28,6 @@ own enchanting atmosphere for the perfect picnic spot.
 <br>
 </p>
 <p>As midnight approaches, join the excitement of the ONE Countdown 2025
-celebration. Watch the live countdown on a giant screen at illumi, then
-look up to catch glimpses of the spectacular fireworks — making it the
-perfect way to welcome the new year!</p>
+celebration. Join the Bay’s countdown in unison at illumi, then look up
+to catch glimpses of the spectacular fireworks — making it the perfect
+way to welcome the new year!</p>
