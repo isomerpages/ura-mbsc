@@ -18,8 +18,9 @@ health and individuals with disabilities.​</p>
 join us in building a shared future for all today.​</p>
 <p>Watch Justin's story of resilience below and make a donation by scanning
 the QR code to support the communities in need with SHARE!</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y71VA4ztPco?si=BE1WdZh5ds7QMEq0"></iframe>
+<div style="display: flex; justify-content: center;">
+  <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y71VA4ztPco?si=BE1WdZh5ds7QMEq0">
+  </iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
