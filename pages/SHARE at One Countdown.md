@@ -22,3 +22,7 @@ the QR code to support the communities in need with SHARE!</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y71VA4ztPco?si=BE1WdZh5ds7QMEq0"></iframe>
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ShareQR.png">
+</div>
+<p></p>
