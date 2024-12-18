@@ -2,6 +2,8 @@ logo: /images/MBSC_logo__Website_with_SG60_.png
 links:
   - title: About
     collection: about
+  - title: SHARE at One Countdown
+    url: /share-at-one-countdown/
   - title: Programmes
     collection: programmes
   - title: Brightening Lives
