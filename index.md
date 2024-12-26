@@ -17,7 +17,7 @@ sections:
           url: /brightening-lives/about-brightening-lives
         - title: Visitors' Information
           description: ""
-          url: /visitors-information/event-map
+          url: /visitors-information/
   - infopic:
       title: Highlights around Marina Bay at a glance
       id: infopic
