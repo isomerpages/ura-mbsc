@@ -9,6 +9,6 @@ links:
   - title: Brightening Lives
     collection: brightening-lives
   - title: Visitors' Information
-    collection: visitors-information
+    url: /visitors-information/
   - title: News
     resource_room: true
