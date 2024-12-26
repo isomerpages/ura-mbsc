@@ -8,7 +8,7 @@ description: Marina Bay Singapore Countdown 2025 events map.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Visitor_Map.jpg">
 </div>
-<p>Transport</p>
+<h4>Transport</h4>
 <p>Due to closure of certain roads and lanes around Marina Bay on New Year’s
 Eve, the public is encouraged to make&nbsp;their way to MBSC 2025 via the
 island-wide Mass Rapid Transit (MRT) system. Train services will be extended
@@ -46,7 +46,7 @@ nearest stations are:</p>
 <p>Gardens by The Bay (TE22)</p>
 </li>
 </ul>
-<p>Overview of Road Closures on New Year’s Eve</p>
+<h4>Overview of Road Closures on New Year’s Eve</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mbsc_map__Rd_Closure__v3.jpg">
 </div>
