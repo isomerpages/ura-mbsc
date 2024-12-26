@@ -4,7 +4,7 @@ permalink: /visitors-information/event-map/
 variant: markdown
 description: Marina Bay Singapore Countdown 2025 events map.
 ---
-<p></p>
+<h4>Event Map</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Visitor_Map.jpg">
 </div>
