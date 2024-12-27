@@ -10,12 +10,8 @@ description: ""
 </div>
 <p>As we ring in our nation's 60th birthday this new year, let's also take
 a moment to make a difference in the lives of communities in need.</p>
-<p>By contributing to the SHARE programme by Community Chest, you will be
-supporting critical needs across 5 key areas including seniors, children
-and youth at risk, families in need of assistance, persons with mental
-health and individuals with disabilities.​</p>
-<p>100% of your contribution will go towards supporting service users. So,
-join us in building a shared future for all today.​</p>
+<p>By contributing to the <a target="_blank" href="https://www.giving.sg/donate/campaign/sg60share">SHARE</a> programme by <a target="_blank" href="https://www.comchest.gov.sg/brand/share/for-individuals">Community Chest</a>, you will be supporting critical programmes that help children with special needs and youth at risk, adults with disabilities, persons with mental health conditions, and families and seniors in need.​</p>
+<p>100% of your contribution will go towards supporting those in need. So, join us in building a shared future for all today.​</p>
 <p>Watch Justin's story of resilience below and make a donation by scanning
 the QR code to support the communities in need with SHARE!</p>
 <div style="display: flex; justify-content: center;">
