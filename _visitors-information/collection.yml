@@ -2,5 +2,5 @@ collections:
   visitors-information:
     output: true
     order:
-      - Advisory.md
       - Visitors' Information.md
+      - Advisory.md
