@@ -13,7 +13,9 @@ description: ""
 multiple locations and fireworks displays at various countdown celebration
 sites across the island. SG60 is a time for Singaporeans to connect with
 their fellow citizens and ONE Countdown is the first event to kick off
-SG60 commemorations. In addition to Marina Bay, <a href="https://www.sportshub.com.sg/events/lets-celebrate-2025" rel="noopener nofollow" target="_blank">Kallang Waterfront</a>,
+SG60 commemorations.
+<br>
+<br>In addition to Marina Bay, <a href="https://www.sportshub.com.sg/events/lets-celebrate-2025" rel="noopener nofollow" target="_blank">Kallang Waterfront</a>,
 <a href="https://www.sentosa.com.sg/countdown" rel="noopener nofollow" target="_blank">Sentosa</a>, <a href="https://www.scape.sg/event/somerset-belt-countdown/" rel="noopener nofollow" target="_blank">Somerset Belt</a>,
 <a href="https://christmas.orchardroad.org/" rel="noopener nofollow" target="_blank">Orchard</a>and <a href="https://www.instagram.com/clarkequaysg/" rel="noopener nofollow" target="_blank">Clarke Quay</a>,
 there are <a href="https://www.pa.gov.sg/one-countdown-2025-heartland-locations/" rel="noopener nofollow" target="_blank">17 heartland sites</a>,
