@@ -4,7 +4,7 @@ permalink: /advisory/
 variant: markdown
 description: ""
 ---
-<h2>Overview of Road Closures on New Year’s Eve</h2>
+<h4>Overview of Road Closures on New Year’s Eve</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mbsc_map__Rd_Closure__v3.jpg">
 </div>
@@ -266,5 +266,5 @@ War Memorial)</p>
 </tr>
 </tbody>
 </table>
-<h2>No Cycling Advisory</h2>
+<h4>No Cycling Advisory</h4>
 <p></p>
