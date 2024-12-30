@@ -1,7 +1,7 @@
 ---
 title: Advisory
 permalink: /advisory/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h4>Overview of Road Closures on New Year’s Eve</h4>
@@ -267,4 +267,9 @@ War Memorial)</p>
 </tbody>
 </table>
 <h4>No Cycling Advisory</h4>
+<p>Please note that cyclists are to avoid cycling in the Marina Bay area
+(shaded in yellow) on 31 Dec 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image showing road closure for cycling" src="/images/Road_Closure_Map__Sector__v4__1_.jpg">
+</div>
 <p></p>
