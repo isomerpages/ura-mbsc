@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/3144_x_1350.jpg
+      background: /images/Banner.jpg
       key_highlights:
         - title: Programmes
           description: ""
