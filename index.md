@@ -18,6 +18,7 @@ sections:
         - title: Visitors' Information
           description: ""
           url: /visitors-information/
+      title: Wishing everyone a Happy 2025 from Marina Bay
   - infopic:
       title: Highlights around Marina Bay at a glance
       id: infopic
