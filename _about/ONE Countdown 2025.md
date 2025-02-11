@@ -2,7 +2,9 @@
 title: ONE Countdown 2025
 permalink: /one-countdown-2025/
 variant: tiptap
-description: ""
+description: ONE Countdown 2025 will usher in the new year, with celebrations
+  across multiple locations and fireworks displays at various countdown
+  celebration sites across the island.
 ---
 <p></p>
 <p></p>
